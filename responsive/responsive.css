@@ -1,0 +1,241 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 320px) and (max-width: 375px){
+    .main { 
+        width: 100% !important;
+    }
+    .main-box {
+        width: 100% !important;
+    }
+    hr {
+        width: 218px !important;
+    }
+    .text-center .heading h1 {
+        font-size: 22px !important; 
+    }
+    .text-center .heading p {
+        margin-top: 19px; 
+        font-size: 13px !important; 
+    }
+    .user h2 {
+        font-size: 17px !important; 
+    }
+    button.Web1.Web3 {
+        width: 100% !important;
+    }
+    button.Web2.text-center.Collector {
+    width: 100% !important;
+    margin-top: 15px;
+    }
+    button.Web2.mx-auto.Flipper { 
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Builder {
+        width: 100% !important;
+    }
+    button.Web2.text-center.Content {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Design {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web1.ms-auto.Day {
+        width: 100% !important; 
+    }
+    button.Web2.text-center.NFT {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collectors.ms-auto.Inluencer {
+        width: 100% !important; 
+    }
+    button.Web2.text-center.Artist {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Developer {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collectors.ms-auto.Airdrop {
+        width: 100% !important;  
+    }
+    button.Web1.ms-auto.Crypto {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Meme {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 375px) and (max-width: 425px){
+    .main { 
+        width: 100% !important;
+    }
+    .main-box {
+        width: 100% !important;
+    }
+    hr {
+        width: 218px !important;
+    }
+    .text-center .heading h1 {
+        font-size: 22px !important; 
+    }
+    button.Web1.Web3 {
+        width: 100% !important;
+    }
+    button.Web2.text-center.Collector {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.mx-auto.Flipper { 
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Builder {
+        width: 100% !important;
+    }
+    button.Web2.text-center.Content {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Design {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web1.ms-auto.Day {
+        width: 100% !important; 
+    }
+    button.Web2.text-center.NFT {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collectors.ms-auto.Inluencer {
+        width: 100% !important; 
+    }
+    button.Web2.text-center.Artist {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Developer {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collectors.ms-auto.Airdrop {
+        width: 100% !important;  
+    }
+    button.Web1.ms-auto.Crypto {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Meme {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 425px) and (max-width: 768px){
+    .main { 
+        width: 100% !important;
+    }
+    .main-box {
+        width: 100% !important;
+    }
+    hr {
+        width: 218px !important;
+    }
+    .text-center .heading h1 {
+        font-size: 31px !important; 
+    }
+    .text-center .heading p {
+        margin-top: 20px; 
+        font-size: 18px !important; 
+    }
+    .user h2 {
+        font-size: 22px !important; 
+    }
+    button.Web1.Web3 {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collector {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.mx-auto.Flipper { 
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Builder {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Content {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Design {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web1.ms-auto.Day {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.NFT {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collectors.ms-auto.Inluencer {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Artist {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Developer {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Collectors.ms-auto.Airdrop {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web1.ms-auto.Crypto {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+    button.Web2.text-center.Meme {
+        width: 100% !important; 
+        margin-top: 15px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+    .main-box {
+        width: 100% !important;
+    }
+    .text-center .heading h1 {
+        font-size: 22px !important; 
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1024px) and (max-width: 1200px){
+    .main-box {
+        width: 100% !important;
+    }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1440px){
+    .main-box {
+        width: 100% !important;
+    }
+}
